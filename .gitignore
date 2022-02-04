@@ -1,2 +1,3 @@
 # MacOS directory files
 *.DS_Store
+*.ipynb_checkpoints/
